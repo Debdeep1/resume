@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Removes the scrollbar */
+  }
+  
+  iframe {
+    overflow: hidden; /* Ensures no scrollbars in the iframe */
+  }
+  
